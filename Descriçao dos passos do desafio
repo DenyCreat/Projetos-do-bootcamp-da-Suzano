@@ -1,0 +1,16 @@
+Explicação da resolução do desafio
+
+Neste desafio peguei no site da kaggle https://www.kaggle.com/, um banco de dados com a temática RH da IBM, neste caso sobre atrito e performance dos funcionários.
+
+O primeiro passo foi elaborar um roteiro sobre quais informações que julguei serem revelantes apresentar neste relatório, pois o banco de dados era composto por 35
+colunas que eram referentes a idade, gênero, se estava tendo atrito ou não, tempo de empresa, indice de felicidade e entre outras informações. No caso julguei como
+essenciais apresentar informações apenas sobre idade, setor de trabalho, tempo na empresa, distância de deslocamento casa a trabalho, gênero e função de trabalho.
+
+Já o segundo passo foi fazer um pré-preparo no Excel eliminando colunas desnecessárias.
+
+No terceiro passo, já no power bi o passo foi fazer uma melhoria de dados, fazendo os dados ficarem com um tamanho menor sem perder a representatividade das informações.
+
+Enquanto que no quarto passo correspondeu a elaboração dos 6 gráficos que compõe o relatório representando de uma forma resumida mas precisa: as informações no qual foi
+escolhido apresentar. Já sobre os gráficos: 1 gráfico de pizza referente a porporção de gênero e 5 gráficos de barras cujo cada coluna representa um intervalo de dados.
+
+Por fim, no último passo (quinto) foi feito os ajustes finais como tamanho e retoque da fonte dos títulos dos gráficos.
